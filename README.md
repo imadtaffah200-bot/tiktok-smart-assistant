@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TikTok Smart Assistant
 
 An AI-powered web application for TikTok content creators. Generate viral video ideas, catchy hooks, professional descriptions, trending hashtags, and get personalized growth insights through AI-powered chat assistance.
@@ -209,3 +210,6 @@ MIT License - feel free to use this project for personal or commercial purposes.
 ---
 
 Built with ❤️ for TikTok creators everywhere
+=======
+# tiktok-smart-assistant
+>>>>>>> 82883375849b1aa7de2e79e4a4c57991e4830725
